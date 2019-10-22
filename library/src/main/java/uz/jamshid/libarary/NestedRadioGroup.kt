@@ -14,7 +14,7 @@ class NestedRadioGroup @JvmOverloads constructor(
 ) : LinearLayout(context, attrs, defStyleAttr) {
 
     private var activeChild: RadioButton? = null
-    private var unselectable = false
+    var unselectable = false
 
     private var listener: NestedRadioGroupListener? = null
 
