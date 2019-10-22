@@ -19,7 +19,7 @@ allprojects {
 ```
 ```
 dependencies {
-	implementation 'com.github.Jamshid-M:NestedRadioGroup:1.0'
+	implementation 'com.github.Jamshid-M:NestedRadioGroup:1.1'
 }
 ```
 
