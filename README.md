@@ -1,5 +1,7 @@
 # NestedRadioGroup
 
+[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-NestedRadioGroup-green.svg?style=flat )]( https://android-arsenal.com/details/1/7925 )
+
 ## RadioGroup which don't lose state with inner ViewGroup
 
 #### You can add ViewGroup into RadioGroup to get complex views with RadioButtons. </br>
